@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/navyanarang51/leetcode/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/navyanarang51/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
