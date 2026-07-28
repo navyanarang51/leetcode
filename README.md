@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/navyanarang51/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/navyanarang51/leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/navyanarang51/leetcode/tree/master/0367-valid-perfect-square) |
 ## Binary Search
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/navyanarang51/leetcode/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/navyanarang51/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/navyanarang51/leetcode/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/navyanarang51/leetcode/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
