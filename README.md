@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/navyanarang51/leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/navyanarang51/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/navyanarang51/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/navyanarang51/leetcode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
