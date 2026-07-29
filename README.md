@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/navyanarang51/leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/navyanarang51/leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/navyanarang51/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2413-smallest-even-multiple](https://github.com/navyanarang51/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/navyanarang51/leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/navyanarang51/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
