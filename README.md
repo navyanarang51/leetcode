@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/navyanarang51/leetcode/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/navyanarang51/leetcode/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/navyanarang51/leetcode/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/navyanarang51/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/navyanarang51/leetcode/tree/master/0771-jewels-and-stones) |
 ## Depth-First Search
 |  |
