@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/navyanarang51/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/navyanarang51/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/navyanarang51/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/navyanarang51/leetcode/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -63,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/navyanarang51/leetcode/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/navyanarang51/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
