@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/navyanarang51/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/navyanarang51/leetcode/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/navyanarang51/leetcode/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/navyanarang51/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/navyanarang51/leetcode/tree/master/0485-max-consecutive-ones) |
