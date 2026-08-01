@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/navyanarang51/leetcode/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/navyanarang51/leetcode/tree/master/0136-single-number) |
 | [0463-island-perimeter](https://github.com/navyanarang51/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/navyanarang51/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/navyanarang51/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/navyanarang51/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
