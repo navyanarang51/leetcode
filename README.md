@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/navyanarang51/leetcode/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/navyanarang51/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/navyanarang51/leetcode/tree/master/0136-single-number) |
 | [0463-island-perimeter](https://github.com/navyanarang51/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/navyanarang51/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/navyanarang51/leetcode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/navyanarang51/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
