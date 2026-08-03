@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/navyanarang51/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/navyanarang51/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navyanarang51/leetcode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/navyanarang51/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1108-defanging-an-ip-address](https://github.com/navyanarang51/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/navyanarang51/leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/navyanarang51/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/navyanarang51/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3136-valid-word](https://github.com/navyanarang51/leetcode/tree/master/3136-valid-word) |
 ## Depth-First Search
 |  |
