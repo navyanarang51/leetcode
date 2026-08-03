@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-shuffle-string](https://github.com/navyanarang51/leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/navyanarang51/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/navyanarang51/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3110-score-of-a-string](https://github.com/navyanarang51/leetcode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/navyanarang51/leetcode/tree/master/3136-valid-word) |
 ## Depth-First Search
 |  |
