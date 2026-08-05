@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/navyanarang51/leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/navyanarang51/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/navyanarang51/leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/navyanarang51/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/navyanarang51/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/navyanarang51/leetcode/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/navyanarang51/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyanarang51/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/navyanarang51/leetcode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyanarang51/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
