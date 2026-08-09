@@ -6,14 +6,14 @@ class Solution {
                 if (i==j){
                     sum= sum+mat[i][j];
                 }
-                if (i+j==mat.length-1){
+               else if (i+j==mat.length-1){
                     sum=sum+mat[i][j];
                 }
             }
         }
-        if (mat.length%2!=0){
-            sum=sum-mat[mat.length/2][mat.length/2];
-        }
+        // if (mat.length%2!=0){
+        //     sum=sum-mat[mat.length/2][mat.length/2];
+        // }
         return sum;
     }
 }
