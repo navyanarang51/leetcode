@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0202-happy-number](https://github.com/navyanarang51/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/navyanarang51/leetcode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/navyanarang51/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyanarang51/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/navyanarang51/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/navyanarang51/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyanarang51/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/navyanarang51/leetcode/tree/master/0136-single-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/navyanarang51/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/navyanarang51/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/navyanarang51/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/navyanarang51/leetcode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyanarang51/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
