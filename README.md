@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/navyanarang51/leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/navyanarang51/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/navyanarang51/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/navyanarang51/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyanarang51/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/navyanarang51/leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/navyanarang51/leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/navyanarang51/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/navyanarang51/leetcode/tree/master/0485-max-consecutive-ones) |
