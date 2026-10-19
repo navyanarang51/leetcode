@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/navyanarang51/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/navyanarang51/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/navyanarang51/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/navyanarang51/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/navyanarang51/leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/navyanarang51/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/navyanarang51/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/navyanarang51/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/navyanarang51/leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/navyanarang51/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/navyanarang51/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/navyanarang51/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/navyanarang51/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyanarang51/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyanarang51/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/navyanarang51/leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/navyanarang51/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/navyanarang51/leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/navyanarang51/leetcode/tree/master/0463-island-perimeter) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/navyanarang51/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/navyanarang51/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/navyanarang51/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyanarang51/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyanarang51/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/navyanarang51/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/navyanarang51/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
