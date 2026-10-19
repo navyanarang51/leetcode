@@ -7,7 +7,7 @@ class Solution {
                 count++;
 
                 if (count>max){
-                    max=count;
+                    max= count;
                 }
             }
             else{
